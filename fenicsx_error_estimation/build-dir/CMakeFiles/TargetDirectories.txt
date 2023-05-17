@@ -1,0 +1,7 @@
+/workspaces/fenicsx-error-estimation/fenicsx_error_estimation/build-dir/CMakeFiles/fenicsx_error_estimation.dir
+/workspaces/fenicsx-error-estimation/fenicsx_error_estimation/build-dir/CMakeFiles/edit_cache.dir
+/workspaces/fenicsx-error-estimation/fenicsx_error_estimation/build-dir/CMakeFiles/rebuild_cache.dir
+/workspaces/fenicsx-error-estimation/fenicsx_error_estimation/build-dir/CMakeFiles/list_install_components.dir
+/workspaces/fenicsx-error-estimation/fenicsx_error_estimation/build-dir/CMakeFiles/install.dir
+/workspaces/fenicsx-error-estimation/fenicsx_error_estimation/build-dir/CMakeFiles/install/local.dir
+/workspaces/fenicsx-error-estimation/fenicsx_error_estimation/build-dir/CMakeFiles/install/strip.dir
